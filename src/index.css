@@ -1,0 +1,53 @@
+body {
+  
+  font-family: "Vazir","tahoma","Ubuntu" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgb(250, 249, 249) !important;
+}
+
+input[type="text"]::-webkit-input-placeholder,
+input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placeholder {
+  color: #151F33;
+}
+
+input[type="text"],
+select,
+input[type="email"],
+input[type="number"] {
+  color: #151F33 !important;
+  background-color: #BFC0C0 !important;
+  border-color: #BFC0C0 !important;
+  /* box-shadow: 1px 1px 4px #151F33; */
+  border:1px solid #EF8354 !important;
+}
+
+/* .form-control {
+  background-color: #44475a !important;
+  color: #f8f8f4 !important;
+  border-color: #bd93f9 !important;
+}
+ */
+
+ button{
+  color: #151F33 !important;
+ }
+ .hov:hover {
+  -ms-transform: scale(2); /* IE 9 */
+  transform: scale(1.04) ; /* Standard syntax */
+  transition-duration: 0.5s;
+}
+
+.b:hover
+{
+background-color:#151F33 !important ;
+color: #EF8354  !important;
+transition-duration: 0.5s;
+}
+
+.tt:active
+{
+color:#151F33 !important;
+background-color: #EF8354;
+}

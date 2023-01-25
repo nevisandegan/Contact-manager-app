@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nevisandegan/Contact-manager-app/static/css/main.7686cec8.css",
+    "main.js": "/nevisandegan/Contact-manager-app/static/js/main.706253c5.js",
+    "static/media/no-found.gif": "/nevisandegan/Contact-manager-app/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/sign-up.webp": "/nevisandegan/Contact-manager-app/static/media/sign-up.f71aae17c23ec55b9510.webp",
+    "static/media/Pulse-1s-200px.gif": "/nevisandegan/Contact-manager-app/static/media/Pulse-1s-200px.452f4189549271355269.gif",
+    "index.html": "/nevisandegan/Contact-manager-app/index.html",
+    "main.7686cec8.css.map": "/nevisandegan/Contact-manager-app/static/css/main.7686cec8.css.map",
+    "main.706253c5.js.map": "/nevisandegan/Contact-manager-app/static/js/main.706253c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7686cec8.css",
+    "static/js/main.706253c5.js"
+  ]
+}
